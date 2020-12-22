@@ -19,7 +19,7 @@ module.exports = data => {
     throw new Error('Missing required input')
   }
 
-  const template = getTemplate(data.lang || 'en')
+  const template = getTemplate(data.lang)
 
   if (!data.scores) {
     throw new Error('Missing required input data.scores')
