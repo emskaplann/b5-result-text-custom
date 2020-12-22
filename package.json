@@ -1,7 +1,7 @@
 {
   "name": "b5-result-text-custom",
   "description": "Text for big five results score",
-  "version": "4.1.4",
+  "version": "4.1.5",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
